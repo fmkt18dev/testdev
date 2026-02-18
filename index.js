@@ -1,0 +1,12 @@
+{
+ "name": "hostinger-node-test",
+ "version": "1.0.0",
+ "private": true,
+ "main": "index.js",
+ "scripts": {
+ "start": "node index.js"
+ },
+ "engines": {
+ "node": ">=18"
+ }
+}
